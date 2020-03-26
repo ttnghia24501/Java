@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<hotNews>
+    <new1>
+        <todayNews>
+            <tabTitle>Tin tức trong ngày</tabTitle>
+
+            <News>
+                <title>Công bố ca Covid-19 số 67, cũng từ Malaysia về</title>
+                <url>https://www.24h.com.vn/tin-tuc-trong-ngay/cong-bo-ca-covid-19-so-67-cung-tu-malaysia-ve-c46a1133127.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-18/120x90/1584500328-126-158442056417851-thumbnail.jpg</image>
+                <shortDesc>Bộ Y tế vừa công bố ca nhiễm Covid-19 số 67, là người đi cùng chuyến bay với ca bệnh số 61.</shortDesc>
+            </News>
+
+            <News>
+                <title>Yên Bái bỏ quy định cách ly người về từ Hà Nội</title>
+                <url>https://www.24h.com.vn/tin-tuc-trong-ngay/yen-bai-bo-quy-dinh-cach-ly-nguoi-ve-tu-ha-noi-c46a1133245.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-18//1584521034-fcd770081a7c3abddc0e67f9f61ccfe1.jpg</image>
+                <shortDesc>Ủy ban nhân dân tỉnh Yên Bái vừa có công văn chỉ đạo các sở, ban, ngành của tỉnh thực hiện quy định: Những trường hợp đi từ vùng dịch trong nước về Yên Bái mà không có tiền sử dịch tễ liên quan đến Covid-19 thì không nhất thiết phải cách ly tại nhà nhưng cần theo dõi sức khỏe.</shortDesc>
+            </News>
+
+            <News>
+                <title>Phong tỏa chung cư cao cấp tại TP.HCM phòng chống Covid-19</title>
+                <url>https://www.24h.com.vn/tin-tuc-trong-ngay/phong-toa-chung-cu-cao-cap-tai-tphcm-phong-chong-covid-19-c46a1133241.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-18//1584520319-afa2ec8c59484f3345fba9173d46c945.jpg</image>
+                <shortDesc>Ngay sau khi ngành y tế xác định ca bệnh số 66 (BN66) là bệnh nhân nữ, 21 tuổi, trú tại Chung cư Park View, số 107 Nguyễn Đức Cảnh, Phú Mỹ Hưng, quận 7 thì ngay lập tức khu chung cư này đã được phong tỏa cách ly. Đây là một khu chung cư cao cấp tại TP.HCM.</shortDesc>
+            </News>
+
+            <News>
+                <title>Thủ tướng yêu cầu xử lý nghiêm hành vi kỳ thị du khách nước ngoài</title>
+                <url>https://www.24h.com.vn/tin-tuc-trong-ngay/thu-tuong-yeu-cau-xu-ly-nghiem-hanh-vi-ky-thi-du-khach-nuoc-ngoai-c46a1133216.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-18/1584514970-621-thu-tuong-yeu-cau-xu-ly-nghiem-hanh-vi-ky-thi-du-khach-nuoc-ngoai-tt-1584514931-width660height458.jpg</image>
+                <shortDesc>Thủ tướng yêu cầu chấn chỉnh và xử lý nghiêm mọi hành vi kỳ thị, từ chối phục vụ khách du lịch là người nước ngoài.</shortDesc>
+            </News>
+
+        </todayNews>
+        <Covid_19>
+            <tabTitle>Dịch Covid_19</tabTitle>
+            <News>
+                <title>Công bố ca Covid-19 số 67, cũng từ Malaysia về</title>
+                <url>https://www.24h.com.vn/tin-tuc-trong-ngay/cong-bo-ca-covid-19-so-67-cung-tu-malaysia-ve-c46a1133127.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-18/120x90/1584500328-126-158442056417851-thumbnail.jpg</image>
+                <shortDesc>Bộ Y tế vừa công bố ca nhiễm Covid-19 số 67, là người đi cùng chuyến bay với ca bệnh số 61.</shortDesc>
+            </News>
+            <News>
+                <title>Chỉ trong 1 ngày, hơn 18.000 cuộc gọi đến hotline phòng chống virus Corona</title>
+                <url>https://www.24h.com.vn/tin-tuc-trong-ngay/chi-trong-1-ngay-hon-18000-cuoc-goi-den-hotline-phong-chong-virus-corona-c46a1121256.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-02-03/1580708124-738-chi-trong-1-ngay-hon-18000-cuoc-goi-den-hotline-phong-chong-virus-corona-hot-1580707892-width660height451.jpeg</image>
+                <shortDesc>Trung bình mỗi giờ có đến 777 cuộc gọi đến, tương đương với hơn 1 cuộc sau mỗi 5 giây.</shortDesc>
+            </News>
+        </Covid_19>
+        <Solution>
+            <tabTitle>Cách phòng tránh</tabTitle>
+
+            <News>
+                <title>Công bố ca Covid-19 số 67, cũng từ Malaysia về</title>
+                <url>https://www.24h.com.vn/tin-tuc-trong-ngay/cong-bo-ca-covid-19-so-67-cung-tu-malaysia-ve-c46a1133127.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-18/120x90/1584500328-126-158442056417851-thumbnail.jpg</image>
+                <shortDesc>Bộ Y tế vừa công bố ca nhiễm Covid-19 số 67, là người đi cùng chuyến bay với ca bệnh số 61.</shortDesc>
+            </News>
+
+            <News>
+                <title>3 nguy cơ lây lan dịch Covid-19 tại Hà Nội</title>
+                <url>https://www.24h.com.vn/suc-khoe-doi-song/3-nguy-co-lay-lan-dich-covid-19-tai-ha-noi-c62a1132794.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-17/1584412151-149-chu-tich-nguyen-duc-chung-neu-3-nguy-co-lay-lan-dich-covid-19-tai-ha-noi-cach-ly-truc-bach-1584409815-width960height639.jpg</image>
+                <shortDesc>Theo Chủ tịch UBND TP Nguyễn Đức Chung, hiện nay, thành phố có 3 nguy cơ lây nhiễm dịch Covid-19.</shortDesc>
+            </News>
+
+        </Solution>
+    </new1>
+    <new2>
+        <football>
+            <tabTitle>Bóng đá</tabTitle>
+            <News>
+                <title>La Liga bị hoãn, Barcelona ngay lập tức làm điều này với Messi</title>
+                <url>https://www.24h.com.vn/bong-da/la-liga-bi-hoan-barcelona-ngay-lap-tuc-lam-dieu-nay-voi-messi-c48a1132557.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-16/120x90/messi-ava-1584336746-86-width640height480.jpg</image>
+                <shortDesc>Barcelona và Messi đang tận dụng tối đa khoảng thời gian tạm nghỉ của La Liga.</shortDesc>
+            </News>
+            <News>
+                <title>Tiền đạo Hà Đức Chinh có đúng sắp giải nghệ vì bệnh nguy hiểm?</title>
+                <url>https://www.24h.com.vn/bong-da/tien-dao-ha-duc-chinh-co-dung-sap-giai-nghe-vi-benh-nguy-hiem-c48a1133158.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-18/dln09068-1584503805-693-width660height500.jpg</image>
+                <shortDesc>Tiền đạo Hà Đức Chinh chính thức lên tiếng trước thông tin anh bị bệnh nguy hiểm đến tính mạng và có thể phải sớm giải nghệ.</shortDesc>
+            </News>
+            <News>
+                <title>SAO trẻ hay nhất MU chống covid-19 cực "độc": Rủ bạn gái nóng bỏng về nhà</title>
+                <url>https://www.24h.com.vn/bong-da/sao-tre-hay-nhat-mu-chong-covid-19-cuc-doc-ru-ban-gai-nong-bong-ve-nha-c48a1133008.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-17/greenwood-10-660-1584442910-650-width660height885.jpg</image>
+                <shortDesc>Tài năng trẻ triển vọng nhất MU cho thấy anh không chỉ giỏi trong khả năng săn bàn.</shortDesc>
+            </News>
+
+            <News>
+                <title>Bao nhiêu cầu thủ và HLV đã qua đời vì dịch Covid-19 hoành hành?</title>
+                <url>https://www.24h.com.vn/bong-da/bao-nhieu-cau-thu-hlv-da-qua-doi-vi-dich-covid-19-hoanh-hanh-c48a1133086.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-18/4690-660-1584498340-935-width660height396.jpg</image>
+                <shortDesc>Dịch Covid-19 không chỉ khiến các giải bóng đá bị hoãn mà còn đe dọa sức khỏe của nhiều cầu thủ và HLV.</shortDesc>
+            </News>
+
+        </football>
+        <sport>
+            <tabTitle>Thể Thao</tabTitle>
+            <News>
+                <title>SAO chạy nước rút số 1 hành tinh: Usain Bolt cũng “khóc thét”</title>
+                <url>https://www.24h.com.vn/the-thao/sao-chay-nuoc-rut-so-1-hanh-tinh-usain-bolt-cung-khoc-thet-c101a1132939.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-17/SAO-1m83-chay-nuoc-rut-dinh-nhat-Usain-Bolt-cung-khoc-thet-nieker1-1584433052-66-width660height413.jpg</image>
+                <shortDesc>(Tin thể thao, tin điền kinh) Wayde Van Niekerk, VĐV người Nam Phi là chân chạy nước rút toàn diện nhất thế giới.</shortDesc>
+            </News>
+
+        </sport>
+        <video>
+            <tabTitle>Video</tabTitle>
+            <News>
+                <title>Video Ngoại hạng Anh: MU, Liverpool - nạn nhân của những cơn địa chấn</title>
+                <url>https://www.24h.com.vn/bong-da/video-ngoai-hang-anh-mu-liverpool-nan-nhan-cua-nhung-con-dia-chan-c48a1132429.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-16/Video-Ngoai-hang-Anh-MU-Liverpool-nan-nhan-cua-nhung-con-dia-chan-liver-1584320553-279-width660height371.jpg</image>
+                <shortDesc>Ngoại hạng Anh 2019/20 là một mùa giải kỳ lạ và trong đó có rất nhiều trận đấu sốc khi "tí hon" đánh bại những gã "khổng lồ.</shortDesc>
+            </News>
+        </video>
+        <Premier_League>
+            <tabTitle>Ngoại hạng Anh</tabTitle>
+            <News>
+                <title>UEFA tính kế "lạ": Cúp C1 đá cuối tuần, Ngoại hạng Anh tổ chức ra sao?</title>
+                <url>https://www.24h.com.vn/bong-da/uefa-tinh-ke-la-cup-c1-da-cuoi-tuan-ngoai-hang-anh-to-chuc-ra-sao-c48a1133113.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-18/UEFA-tinh-ke-sdfaasfdsdafsafd-1584497591-700-width660height475.jpg</image>
+                <shortDesc>Theo Mirror, Liên đoàn bóng đá châu Âu (UEFA) đang tính tới phương án tổ chức vòng sơ loại Champions League, Europa League 2020/21 vào cuối tuần, tức trùng lịch thi đấu của các giải VĐQG.</shortDesc>
+            </News>
+        </Premier_League>
+        <schedule>
+            <tabTitle>Lịch thi đấu</tabTitle>
+            <News>
+                <title>LỊCH THI ĐẤU BÓNG ĐÁ HÔM NAY MỚI NHẤT</title>
+                <url>https://www.24h.com.vn/bong-da/lich-thi-dau-bong-da-hom-nay-moi-nhat-c48a364371.html</url>
+                <shortDesc>Trân trọng gửi tới quý vị độc giả lịch thi đấu bóng đá hôm nay và ngày mai được cập nhật mới nhất, chính xác nhất của các giải đấu.</shortDesc>
+            </News>
+            <News>
+                <title>Lịch thi đấu bóng đá vòng 1/8 cúp C1 - Champions League 2019/2020 mới nhất</title>
+                <url>https://www.24h.com.vn/bong-da/lich-thi-dau-cup-c1-champions-league-c48a465411.html</url>
+                <shortDesc>Trân trọng gửi tới độc giả lịch thi đấu CÚP C1 - CHAMPIONS LEAGUE 2019/20.</shortDesc>
+            </News>
+        </schedule>
+    </new2>
+    <new3>
+        <business>
+            <tabTitle>Kinh doanh </tabTitle>
+            <News>
+                <title>Châu Âu đóng cửa biên giới trên không, Vietnam Airline ứng phó ra sao?</title>
+                <url>https://www.24h.com.vn/tai-chinh/chau-au-dong-cua-bien-gioi-tren-khong-vietnam-airline-ung-pho-ra-sao-c587a1133246.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-18/1584521284-828-chau-au-dong-cua-bien-gioi-tren-khong-vietnam-airline-ung-pho-ra-sao-18-3-1584520810-width961height778.jpg</image>
+                <shortDesc>Việc hàng loạt chỉ số chứng khoán Châu Á giảm sâu đã tác động ít nhiều tới tâm lý giới đầu tư. Dù vậy các chỉ số trong nước vẫn giữ được sắc xanh nhờ vào sự hồi phục của hàng loạt Bluechips.</shortDesc>
+            </News>
+
+            <News>
+                <title>Khu du lịch nổi tiếng vắng lặng đến khó tin khi dịch COVID-19 bùng nổ toàn cầu</title>
+                <url>https://www.24h.com.vn/bat-dong-san/khu-du-lich-noi-tieng-vang-lang-den-kho-tin-khi-dich-covid-19-bung-no-toan-cau-c792a1133200.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-18/1584511468-560-khu-du-lich-noi-tieng-vang-lang-toi-chua-bao-gio-chung-kien-canh-nay-du-lich-6-1584091371-width600height337.jpg</image>
+                <shortDesc>Khác với không khí tấp nập, hối hả vẫn thường gặp, tại các địa danh nổi tiếng như Đà Nẵng, Hội An,… thời điểm này vắng lặng đến khó tin.</shortDesc>
+            </News>
+
+            <News>
+                <title>Tỷ phú Phạm Nhật Vượng trở lại top 300 của thế giới</title>
+                <url>https://www.24h.com.vn/tai-chinh/ty-phu-pham-nhat-vuong-tro-lai-top-300-cua-the-gioi-c587a1133162.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-18/Ty-phu-Pham-Nhat-Vuong-tro-lai-top-300-cua-the-gioi-8-1584504327-347-width771height334.jpg</image>
+                <shortDesc>Tỷ phú Phạm Nhật Vượng trở lại top 300, bộ đôi Nguyễn Đăng Quang - Hồ Hùng Anh rơi khỏi bảng xếp hạng tỷ phú.</shortDesc>
+            </News>
+        </business>
+        <Exchange_rate>
+            <tabTitle>Tỷ giá </tabTitle>
+            <News>
+                <title>Biểu đồ tỉ giá 30 ngày gần nhất </title>
+                <url>https://www.24h.com.vn/ty-gia-ngoai-te-ttcb-c426.html</url>
+            </News>
+        </Exchange_rate>
+        <gold_price>
+            <tabTitle>Giá vàng </tabTitle>
+            <News>
+                <title>Biểu đồ giá vàng 30 ngày gần nhất</title>
+                <url>https://www.24h.com.vn/gia-vang-hom-nay-c425.html</url>
+            </News>
+        </gold_price>
+        <enrich>
+            <tabTitle>Làm giàu </tabTitle>
+            <News>
+                <title>Làm giàu không khó: Đem cây dại về trồng mà tiền về túi "ào ào"</title>
+                <url>https://www.24h.com.vn/khoi-nghiep/lam-giau-khong-kho-dem-cay-dai-ve-trong-ma-tien-ve-tui-ao-ao-c826a1127676.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-02-27/1582795591-570-1--copy---2--1582782432-width600height400.jpg</image>
+                <shortDesc>Ưu điểm nổi trội nhất của giống cây này là rất ít bị sâu bệnh tấn công.</shortDesc>
+            </News>
+            <News>
+                <title>Lạ đời: Trở thành tỷ phú nhờ những món đồ chỉ có giá... 1 USD</title>
+                <url>https://www.24h.com.vn/khoi-nghiep/la-doi-tro-thanh-ty-phu-nho-nhung-mon-do-chi-co-gia-1-usd-c826a1124272.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-02-14/1581658205-638-1--copy--1581654522-width600height400.jpg</image>
+                <shortDesc>Có thể bạn đã từng nghe đến tên thương hiệu của tỷ phú này rồi đấy!</shortDesc>
+            </News>
+        </enrich>
+        <businessmen>
+            <tabTitle>Doanh nhân </tabTitle>
+            <News>
+                <title>Nguyễn Xuân Tú - Kiếm tiền “khủng” mua nhà lầu xe hơi sau 3 năm bỏ Nhật về Việt Nam sinh sống</title>
+                <url>https://www.24h.com.vn/doanh-nhan/nguyen-xuan-tu-kiem-tien-khung-mua-nha-lau-xe-hoi-sau-3-nam-bo-nhat-ve-viet-nam-sinh-song-c606a1131910.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-13/Nguyen-Xuan-Tu---Kiem-tien-khung-mua-nha-lau-xe-hoi-sau-3-nam-bo-Nhat-ve-Viet-Nam-sinh-song-1-1584095124-811-width660height660.jpg</image>
+                <shortDesc>“Nếu ở lại Nhật, tôi có thể có nguồn thu nhập lao động tốt hơn ở Việt Nam nhưng vẫn sẽ mãi là làm thuê và bận rộn" - anh Nguyễn Xuân Tú chia sẻ.</shortDesc>
+            </News>
+        </businessmen>
+    </new3>
+    <new4>
+        <fashion>
+            <tabTitle>Thời trang</tabTitle>
+            <News>
+                <title>Kín đáo khi lên sóng, ngoài đời BTV Minh Hương có gu thời trang cực kỳ gợi cảm và sành điệu</title>
+                <url>https://www.24h.com.vn/thoi-trang/kin-dao-khi-len-song-ngoai-doi-btv-minh-huong-co-gu-thoi-trang-cuc-ky-goi-cam-va-sanh-dieu-c78a1133326.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-18/1584535910-210-2-1584417874-width600height673.jpg</image>
+                <shortDesc>Đã quá quen với hình ảnh kín cổng cao tường của BTV Minh Hương lúc lên sóng nên khi bắt gặp gu thời trang gợi cảm, sexy của cô ngoài đời khiến nhiều người ngạc nhiên.</shortDesc>
+            </News>
+        </fashion>
+        <Dressed>
+            <tabTitle>Bí quyết mặc đẹp</tabTitle>
+            <News>
+                <title>4 loại giày có thể đi vào mùa hè thay cho dép</title>
+                <url>https://www.24h.com.vn/xu-huong-thoi-trang/4-loai-giay-co-the-di-vao-mua-he-thay-cho-dep-c215a1133187.html</url>
+                <image>https://cdn.24h.com.vn/upload/1-2020/images/2020-03-18/1584508292-658-4-loai-giay-ban-nen-di-vao-mua-he-thay-cho-dep-1-1584442777-width728height418.jpg</image>
+                <shortDesc>Không phải lúc nào bạn cũng nên đi dép vào mùa hè. Dưới đây là 4 loại giày bạn nên sử dụng cho mùa hè sắp tới</shortDesc>
+            </News>
+        </Dressed>
+        <model>
+            <tabTitle>Người mẫu - Hoa Hậu </tabTitle>
+            <News>
+                <title>Phượng Chanel phối áo hở vai với mốt "song túi" đeo hông</title>
+                <url>https://www.24h.com.vn/bi-quyet-mac-dep/phuong-chanel-phoi-ao-ho-vai-voi-mot-song-tui-deo-hong-c272a1132981.html</url>
+                <shortDesc>Phong cách thời trang của doanh nhân Phượng Chanel thời gian gần đây đúng là không phải dạng vừa.</shortDesc>
+            </News>
+        </model>
+    </new4>
+</hotNews>
