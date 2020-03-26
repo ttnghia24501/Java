@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="logo.xsl" ?>
+
+<WEB>
+    <CONTENT>
+        <PRODUCT>
+            <INVOICE>issued December 15, 2011</INVOICE>
+        </PRODUCT>
+        <PRODUCT>
+            <INVOICE>payment due january 15, 2012</INVOICE>
+        </PRODUCT>
+    </CONTENT>
+    <CONTENT1>
+        <PRODUCT>
+            <FROM>Your Company </FROM>
+            <To> Clien Name</To>
+            <INVOICE_DES>Lorem ipsum dolor sit amset , consectetur adipiscing edit Fusce feugiat ,...</INVOICE_DES>
+        </PRODUCT>
+        <PRODUCT>
+            <FROM>123 Main Street</FROM>
+            <To>address Line 1</To>
+            <INVOICE_DES></INVOICE_DES>
+        </PRODUCT>
+        <PRODUCT>
+            <FROM>Anytown USA</FROM>
+            <To>address Line 2</To>
+            <INVOICE_DES></INVOICE_DES>
+        </PRODUCT>
+    </CONTENT1>
+    <CONTENT2>
+        <PRODUCT>
+            <ITEM>website wireframe for 5 pages</ITEM>
+            <QUANTITY>10 hours</QUANTITY>
+            <UNIT_PRICE>$75</UNIT_PRICE>
+            <SUBTOTAL>$750</SUBTOTAL>
+        </PRODUCT>
+        <PRODUCT>
+            <ITEM>design and layout of 5 pages in Photoshop</ITEM>
+            <QUANTITY>20 hours</QUANTITY>
+            <UNIT_PRICE>$75</UNIT_PRICE>
+            <SUBTOTAL>$750</SUBTOTAL>
+        </PRODUCT>
+        <PRODUCT>
+            <ITEM>logo design</ITEM>
+            <QUANTITY>1</QUANTITY>
+            <UNIT_PRICE>$500</UNIT_PRICE>
+            <SUBTOTAL>$750</SUBTOTAL>
+        </PRODUCT>
+        <PRODUCT>
+            <ITEM>PSD to HTML coding</ITEM>
+            <QUANTITY>25 hours</QUANTITY>
+            <UNIT_PRICE>$100</UNIT_PRICE>
+            <SUBTOTAL>$750</SUBTOTAL>
+        </PRODUCT>
+        <PRODUCT>
+            <ITEM>developmet</ITEM>
+            <QUANTITY>10 hours</QUANTITY>
+            <UNIT_PRICE>$100</UNIT_PRICE>
+            <SUBTOTAL>$750</SUBTOTAL>
+        </PRODUCT>
+        <PRODUCT>
+            <ITEM></ITEM>
+            <QUANTITY></QUANTITY>
+            <UNIT_PRICE>Total </UNIT_PRICE>
+            <SUBTOTAL> $6,250</SUBTOTAL>
+        </PRODUCT>
+    </CONTENT2>
+
+</WEB>
